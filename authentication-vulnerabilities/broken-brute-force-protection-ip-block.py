@@ -1,6 +1,5 @@
 import argparse
 import requests as req
-import time
 import urllib3
 
 urllib3.disable_warnings()
