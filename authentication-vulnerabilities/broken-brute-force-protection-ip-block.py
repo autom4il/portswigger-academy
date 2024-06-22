@@ -47,10 +47,6 @@ if __name__ == "__main__":
     URL = args.url
     PATH_TO_WORDLISTS = args.wordlist
 
-    # URL = "https://0a040072031223f48057b7ab00e500d7.web-security-academy.net/login"
-
-    # PATH_TO_WORDLISTS = "/home/kali/Documents/portswigger-academy/"
-
     PROXIES = {"http": "127.0.0.1:8080", "https": "127.0.0.1:8080"}
 
     valid_user_1 = "wiener"
